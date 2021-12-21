@@ -33,6 +33,7 @@ models/*
 # Training utils
 *.tfevents
 *.tsv 
+*/catboost_info
 
 # Json files
 *.json

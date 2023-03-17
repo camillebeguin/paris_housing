@@ -1,6 +1,6 @@
 # Paris housing
 
-The goal of this project was to predict the selling price of housing units in different Paris arrondissements. 
+Hiring test to predict the selling price of housing units in different Paris arrondissements. 
 Available features included housing surface, number of rooms, location (latitude/longitude), district. 
 
 The results and 4 steps are displayed in the notebooks. Source code for the functions is available in /src.
